@@ -1,4 +1,4 @@
-# Student_Dropout-Analysis
+# Student_Dropout-Analysis - Classification Model
 
 # Project Overview:
 This project aims to develop a predictive model to identify students at risk of dropping out of school using machine learning techniques. By analyzing a dataset containing various student-related factors
